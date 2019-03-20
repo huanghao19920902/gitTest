@@ -1,0 +1,30 @@
+{
+  "name": "KKJSWeb",
+  "version": "0.1.0",
+  "summary": "A short description of KKJSWeb.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huanghao19920902/KKJSWeb",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huanghao19920902": "1348666438@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huanghao19920902/KKJSWeb.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KKJSWeb/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "ReactiveObjC": [
+
+    ]
+  }
+}
